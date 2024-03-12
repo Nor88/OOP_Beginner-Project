@@ -1,0 +1,13 @@
+1. Main Class- might contain methods for parsing input equations and dispatching
+them to appropriate solver classes.
+2. Linear equations Class - This class handles linear equations of the form ax + b
+= 0. It should provide methods to solve single linear equations and systems of
+linear equations.
+3. Quadratic class - Handles quadratic equations of the form ax^2 + bx + c = 0.
+This class should provide methods to solve single quadratic equations and
+handle complex roots.
+4. Polynomial Class - Handles polynomial equations of degree higher than two.
+5. Trigonometric Class
+6. Exponential Class- Handles equations involving exponential functions like e^x.
+7. Logarithmic Class - Handles equations involving logarithmic functions like
+log(x).
